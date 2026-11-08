@@ -1,0 +1,57 @@
+==================================================================
+https://keybase.io/wb_validator
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://dr266.github.io
+  * I am wb_validator (https://keybase.io/wb_validator) on keybase.
+  * I have a public key ASDFOkI9x33mU9KRZ4pndoINRncKeNEJ7mTSk0JFn6GKCgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120661331a8decf166f031bafe131ba4df987a30d8b993fe1b2847f97cff0222d920a",
+      "host": "keybase.io",
+      "kid": "0120c53a423dc77de653d291678a6776820d46770a78d109ee64d29342459fa18a0a0a",
+      "uid": "e8ab54339c6d3085947b0bb2dbc9e219",
+      "username": "wb_validator"
+    },
+    "merkle_root": {
+      "ctime": 1794179098,
+      "hash": "df603943058f536d211db4058aa28bdb26fb6ba9a07630cb2dcfc7544409769dba769c4ed6270b4e8883a856b2cbb040e4804a21b51f6e80a544610947d3442f",
+      "hash_meta": "53b3c322a69878cce58afbfc7f4e68d23130fdafd5e1909f979839ac9a1deb44",
+      "seqno": 27870658
+    },
+    "service": {
+      "entropy": "tJDjlQIYZgkCfiB6OcZDTjdd",
+      "hostname": "dr266.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.6.3"
+  },
+  "ctime": 1794179193,
+  "expire_in": 504576000,
+  "prev": "d851ef292171737b2af9eda2b5cdb948fc1e3c4a8fbab2f833079f10ee62e5a9",
+  "seqno": 18,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgxTpCPcd95lPSkWeKZ3aCDUZ3CnjRCe5k0pNCRZ+higoKp3BheWxvYWTESpcCEsQg2FHvKSFxc3sq+e2itc25SPwePEqPurL4MwefEO5i5anEIChB9Tw331Czo1la06rPhbRIRrT3jst1ZnjY1S25FoqMAgHCo3NpZ8RAOWn11EGqZTcYGXwXASBHVk9o/K78J3ovEXISDbRMO6Qlxy7naAqn1lc8jmhtq2LB9csMy1YsJWHAtQZknsPKBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGBDG1fwyWR6OnHGg/XVge2kNZvyNAKkdQYha2gdGbzXo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/wb_validator
+
+==================================================================
+
