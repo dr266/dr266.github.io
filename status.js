@@ -1,7 +1,7 @@
 'use strict';
 
 const STATUS_URL = './status.json';
-const MAX_AGE_SECONDS = 900;
+const MAX_AGE_SECONDS = 14400;
 
 function setStatus(id, value) {
     const el = document.getElementById(id);
