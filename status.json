@@ -1,31 +1,31 @@
 {
    "block_age_seconds" : 10,
-   "block_height" : 33839619,
+   "block_height" : 33845318,
    "catching_up" : false,
    "disk" : {
-      "available_bytes" : 986964647936,
+      "available_bytes" : 981631123456,
       "mount" : "/data",
       "total_bytes" : 1967845040128,
-      "used_bytes" : 880843776000,
+      "used_bytes" : 886177300480,
       "used_percent" : 45
    },
-   "latest_block_time" : "2026-11-12T05:29:56.338044216Z",
+   "latest_block_time" : "2026-11-12T14:29:56.569616244Z",
    "load" : {
-      "fifteen" : 0.6,
-      "five" : 0.35,
-      "one" : 0.34
+      "fifteen" : 1.4,
+      "five" : 1.6,
+      "one" : 1.65
    },
    "memory" : {
-      "available_bytes" : 21158776832,
+      "available_bytes" : 19394854912,
       "swap_total_bytes" : 33592176640,
-      "swap_used_bytes" : 1109991424,
+      "swap_used_bytes" : 1091223552,
       "total_bytes" : 32902250496
    },
    "network" : "cosmoshub-4",
    "node" : "wb-node",
    "peers" : 10,
    "service" : "active",
-   "timestamp" : "2026-11-12T05:30:06Z",
-   "uptime_seconds" : 24321090,
+   "timestamp" : "2026-11-12T14:30:06Z",
+   "uptime_seconds" : 24353490,
    "validator" : "WB"
 }
