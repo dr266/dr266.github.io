@@ -1,15 +1,15 @@
 {
-  "timestamp": "2026-11-15T10:16:54Z",
+  "timestamp": "2026-11-15T18:24:07Z",
   "network": "juno-1",
-  "block_height": "43764614",
+  "block_height": "43775908",
   "catching_up": false,
   "voting_power": "20783",
   "peers": 10,
   "service": "active",
-  "uptime_seconds": 504091,
+  "uptime_seconds": 533324,
   "memory": {
     "total_bytes": 20738637824,
-    "available_bytes": 14919659520
+    "available_bytes": 14903537664
   },
   "disk": {
     "total_bytes": 469189705728,
